@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "venom-bot": "^4.0.9"
+  },
+  "name": "whatsapi",
+  "version": "1.0.0",
+  "description": "Api de mensagens pelo whatsApp",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tarcio",
+  "license": "ISC"
+}
