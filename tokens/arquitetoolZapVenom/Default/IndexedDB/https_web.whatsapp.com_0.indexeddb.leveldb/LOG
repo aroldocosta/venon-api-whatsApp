@@ -1,0 +1,14 @@
+2023/03/11-22:57:43.383 5cc Reusing MANIFEST /Projects/microLet/REPOSITORY/venon-api-whatsApp/tokens/arquitetoolZapVenom/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/11-22:57:43.383 5cc Recovering log #32
+2023/03/11-22:57:43.419 5cc Reusing old log /Projects/microLet/REPOSITORY/venon-api-whatsApp/tokens/arquitetoolZapVenom/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000032.log 
+2023/03/11-22:57:56.369 5ce Level-0 table #38: started
+2023/03/11-22:57:56.399 5ce Level-0 table #38: 1008214 bytes OK
+2023/03/11-22:57:56.400 5ce Delete type=0 #32
+2023/03/11-22:57:57.039 5ce Compacting 1@1 + 2@2 files
+2023/03/11-22:57:57.092 5ce Generated table #39@1: 46900 keys, 2212277 bytes
+2023/03/11-22:57:57.117 5ce Generated table #40@1: 30542 keys, 1465314 bytes
+2023/03/11-22:57:57.117 5ce Compacted 1@1 + 2@2 files => 3677591 bytes
+2023/03/11-22:57:57.117 5ce compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/03/11-22:57:57.118 5ce Delete type=2 #34
+2023/03/11-22:57:57.118 5ce Delete type=2 #35
+2023/03/11-22:57:57.118 5ce Delete type=2 #38
